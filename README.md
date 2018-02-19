@@ -1,5 +1,7 @@
 # grunt-sass-bootstrap
-Theming Bootstrap using SASS with Grunt and Bower
+Theming Bootstrap using SASS with Grunt and ~~Bower~~ Yarn. *Migrated from Bower to Yarn with the bower-away package*.
+
+
 
 ## Installation
 
